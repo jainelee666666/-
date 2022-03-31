@@ -11,4 +11,3 @@ pip安装opencv-python、dlib
 对掩模im2_mask和掩模affine_im1_mask的掩盖部分取并集得到union_mask。
 利用opencv里的seamlessClone函数对仿射变换后的affine_im1和摄像头图片im2进行泊松融合，掩模为union_mask，得到融合后的图像seamless_im。
 换脸效果
-周杰伦的帅气照：
